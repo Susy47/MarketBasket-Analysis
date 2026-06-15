@@ -10,4 +10,5 @@ The task is to implement a system finding frequent itemsets (aka market-basket a
 - `Market_Basket_Analysis_report.pdf` — The project report, written in LaTeX, provides a comprehensive overview of the methodology, experiments, and results.
 
 The following badge links directly from the repository to the colab version of the notebook.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ovr1UV4-vcv6HkDEwVDnpc10MzlZGHiy#scrollTo=qnMjmdPvgMST)
